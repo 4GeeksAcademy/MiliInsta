@@ -1,14 +1,69 @@
 img{
-    width: 250px;
-    height: 100%;
+    width: 381px;
+    height: 198px;
+    border-radius: 30px;
+}   
+    
+.cabecero{
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    border: darkgray;
 }
-.caja1{
-    width: 100%;
+
+
+.flex-container{
+   
+}
+
+.descripcion{
+    width: auto;
+    height: 100px;
+    background: white;
+    margin-bottom: 20px;
+
+}
+body{
+    background: gainsboro;
+    height: 300px;
+    width: 400px;
+    margin:auto
+}   
+
+.cuerpo{
+   
     margin: auto;
-}
-.box1{
     
 }
+.foto{
+    margin: auto;
+    width: 380px;
+    height: 200px;
+    background-color: aliceblue;
 
+}
+.t{
+    border: solid;
+}
+.fecha{
+    text-align: right;
+    margin:0;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.box{
+    border: black;
 
+}
+header{
+    background-color: beige;
+    align-content: center;
+    text-align: center;
+}
+.p{
+    margin: auto;
+}
+.h2{
+    margin:auto;
+}
 
